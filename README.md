@@ -118,8 +118,8 @@ student-placement-prediction/
 
 ## Project Files
 
-- **PSPP Regression Output:** Original statistical output containing the logistic regression specification, model summary, classification table, and coefficient estimates.
-- **Project Presentation:** Academic presentation documenting the research objective, dataset, methodology, and findings.
+- **[PSPP Regression Output](results/pspp_output.pdf):** Original statistical output containing the logistic regression specification, model summary, classification table, and coefficient estimates.
+- **[Project Presentation](presentation/placement_analysis.pdf):** Academic presentation documenting the research objective, dataset, methodology, and findings.
 
 ## Conclusion
 
